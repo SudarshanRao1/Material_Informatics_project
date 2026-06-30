@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assests/banner.png" alt="Project Banner" width="100%">
-</p>
-
 # 🧪 Composition-Driven Prediction of Thermoelectric Figure of Merit (ZT)
 ### Benchmarked Machine Learning, Stacked Ensemble Learning & Similarity-Guided Inverse Design
 
