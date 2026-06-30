@@ -250,9 +250,6 @@ We also acknowledge the developers and researchers behind the following open-sou
 
 ---
 
-# ⭐ If you found this project interesting...
-
-Please consider giving this repository a ⭐.
 
 It motivates us to continue exploring Machine Learning for Materials Discovery.
 
