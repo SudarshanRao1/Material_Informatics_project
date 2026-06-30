@@ -253,8 +253,3 @@ We also acknowledge the developers and researchers behind the following open-sou
 - SHAP
 
 ---
-
-
-It motivates us to continue exploring Machine Learning for Materials Discovery.
-
----
