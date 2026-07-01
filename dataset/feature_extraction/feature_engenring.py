@@ -4,8 +4,7 @@ Thermoelectric Merit-ZT Dataset Feature Engineering
 Expands the 51-feature StarryData2.0-derived dataset to 120 features.
 All new features are physically motivated for thermoelectric transport.
 
-Author   : [Your Name]
-Affiliation: [Your Institution]
+Author   : Sudarshan , jeevan , shatrujit
 Dataset  : StarryData2.0 (experimental), augmented with pymatgen descriptors
 Target   : ZT (merit-ZT) — dimensionless thermoelectric figure of merit
 
